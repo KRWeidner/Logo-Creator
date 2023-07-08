@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="200" width="300">
+  <polygon points="200, 56 200, 200 56, 200 56, 56"  fill="red" />
+  <text x="43%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="3em" style="fill: skyblue">EXE</text> 
+  Sorry, your browser does not support inline SVG.  
+</svg> 

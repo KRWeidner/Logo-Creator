@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="200" width="300">
-    <circle cx="150" cy="115" r="85" fill="#e6e6fa" />
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="3em" style="fill:#6495ed">KRW</text>
+    <polygon points="245, 42 245, 245 42, 245 42, 42" fill="#6495ed" />
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="3em" style="fill:Orange">KRW</text>
     </svg> 

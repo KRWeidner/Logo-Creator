@@ -1,8 +1,5 @@
 //import required classes and libraries
-const modules = require('./lib/shapes');
-const Triangle = modules.Triangle;
-const Square = modules.Square;
-const Circle = modules.Circle;
+const { Square, Circle, Triangle } = require("./lib/shapes");
 const inquirer = require('inquirer');
 const fs = require('fs');
 

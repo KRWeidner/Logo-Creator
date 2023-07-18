@@ -9,3 +9,4 @@ This app is run through the terminal and will prompt the user with 4 questions a
 ![logo](https://github.com/KRWeidner/Logo-Creator/assets/42842725/02225acf-4480-410a-8bff-32a57c122e04)
 
 ## Video Walkthrough
+[Untitled_ Jul 17, 2023 10_20 PM.webm](https://github.com/KRWeidner/Logo-Creator/assets/42842725/78099130-dba0-4251-b764-067431623dbb)
